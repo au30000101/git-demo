@@ -20,4 +20,3 @@ Git is a free and open source distributed version control system, a software for
 ## Stash and re-apply changes
 - `git stash`
 - `git stash pop`
-## 1
