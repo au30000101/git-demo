@@ -17,3 +17,6 @@ Git is a free and open source distributed version control system, a software for
 ## Revert commits and commit history
 - `git reset HEAD~5`
 - `git push --force`
+## Stash and re-apply changes
+- `git stash`
+- `git stash pop`
