@@ -14,6 +14,7 @@ Git is a free and open source distributed version control system, a software for
 ## Reset local commits
 - `git reset HEAD~1`
 ## Remove local changes and files
+- `git checkout .`
 - `git add --all`
 - `git stash`
 - `git stash drop`
