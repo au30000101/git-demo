@@ -26,3 +26,5 @@ Git is a free and open source distributed version control system, a software for
 - `git stash pop`
 ## Clear stash list
 - `git stash clear`
+## Merge multiple commits as a single squashed commit
+- `git merge --squash feature`
