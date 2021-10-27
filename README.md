@@ -28,3 +28,4 @@ Git is a free and open source distributed version control system, a software for
 - `git stash clear`
 ## Merge multiple commits as a single squashed commit
 - `git merge --squash feature`
+- `git commit -m 'Your custom commit message'`
